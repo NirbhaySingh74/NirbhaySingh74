@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Web3<br><br>👯 I’m looking to collaborate on Full Stack Project<br><br>🤝 I’m looking for help with Full Stack<br><br>💬 Ask me about Full Stack<br><br>📫 How to reach me nirbhaysingh943012@gmail.com
+🌱 I’m Full Stack Developer<br><br>👯 I’m looking to collaborate on Full Stack Project<br><br>🤝 I’m looking for help with Full Stack<br><br>💬 Ask me about Full Stack<br><br>📫 How to reach me nirbhaysingh943012@gmail.com
 
 
 ## 🌐 Socials:
